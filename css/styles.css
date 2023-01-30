@@ -59,6 +59,7 @@ body {
   margin: 0 auto;
   /*outline: 1px solid red;*/
 }
+
 .visually-hidden {
   position: absolute;
   width: 1px;
