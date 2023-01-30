@@ -135,7 +135,6 @@ body {
 }
 /*.connect-item {
 }*/
-
 .header-mail,
 .header-tel {
   font-size: 16px;
@@ -144,14 +143,12 @@ body {
   color: var(--navigation-item-color);
   transition: color var(--transit);
 }
-
 .header-mail:hover,
 .header-mail:focus,
 .header-tel:hover,
 .header-tel:focus {
   color: var(--accent-color);
 }
-
 /* ------MAIN------ */
 .main-top {
   background: var(--second-background-color);
@@ -313,7 +310,6 @@ body {
   color: var(--third-title-color, #f4f4fd);
   margin-bottom: 8px;
 }
-
 .soc-list {
   display: flex;
   justify-content: center;
@@ -435,12 +431,10 @@ body {
 .footer-soc-link:focus {
   background-color: #31d0aa;
 }
-
 .footer-subscribe-content {
   width: 456px;
   height: 80px;
 }
-
 .footer-subscribe-form {
   display: flex;
   justify-content: center;
