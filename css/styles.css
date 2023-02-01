@@ -771,6 +771,12 @@ body {
 
 .modal-form-link {
   color: var(--second-btn-text-color);
+  transition: color var(--transit);
+}
+.modal-form-link:hover,
+.modal-form-link:focus {
+  color: var(--accent-color);
+  /*color: tomato;*/
 }
 .modal-form-btn {
   min-width: 170px;
